@@ -96,6 +96,9 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey? 
 
+*Ethan's changes*
+I added a file and messed around with pull requests. I learned more about this process using GitHub. I have used similar features on a platform called BitBucket, but it was useful to try these things on GitHub. I also edited my profile README. I have created repositories before, so I did not make a new one. Overall I found the reading helpful.
+
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
